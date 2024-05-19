@@ -8,4 +8,4 @@
 
 ## My Socials:
 
-[![My Skills](https://skillicons.dev/icons?i=discord,instagram,twitter,gmail,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,discord,instagram,twitter,gmail)](https://skillicons.dev)
