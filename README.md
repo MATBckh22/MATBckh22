@@ -4,9 +4,10 @@
 
 ` System Programmer ` | ` Robotics & IoT ` | ` Open Source Contributor `
 
-CS Undergrad @[XMUM](https://www.xmu.edu.my/) | Internship @[Gamuda](https://gamuda.com/)
+CS Undergrad @[XMUM](https://www.xmu.edu.my/) | Internship @[Gamuda](https://gamuda.com/) | Incoming Mech Eng Robotics Masters @[THU](https://www.tsinghua.edu.cn/)
+
 <br>
-Interested in Robotics and Embodied AI, looking for research masters opportunities
+Interested in Robotics and Embodied AI
 
 [![MATBckh22's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=MATBckh22)](https://github.com/anuraghazra/github-readme-stats)
 
