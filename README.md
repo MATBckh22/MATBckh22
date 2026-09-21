@@ -4,7 +4,7 @@
 
 ` System Programmer ` | ` Robotics & IoT ` | ` Open Source Contributor `
 
-CS Undergrad @[XMUM](https://www.xmu.edu.my/) | Internship @[Gamuda](https://gamuda.com/) | Incoming Mech Eng Robotics Masters @[THU](https://www.tsinghua.edu.cn/)
+CS Undergrad @[XMUM](https://www.xmu.edu.my/) | Internship @[Gamuda](https://gamuda.com/) | Mech Eng Intelligent Manufacturing and Robotics Masters @[THU](https://www.tsinghua.edu.cn/)
 
 <br>
 Interested in Robotics and Embodied AI
